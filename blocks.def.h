@@ -7,7 +7,8 @@ static const Block blocks[] = {
 
 	{" 📦 ", "~/.dwm/scripts/pacupdate",		360,		        9},
 	
-	{" 💻 ", "~/.dwm/scripts/memory",	        6,		            1},
+//	{" 💻 ", "~/.dwm/scripts/memory",	        6,		            1},
+	{" 💻 ", "~/.dwm/scripts/cpu",              5,                  3},
 
 	{" 🔊 ", "~/.dwm/scripts/volume",			10,		            15},
 
